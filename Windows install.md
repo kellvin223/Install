@@ -40,6 +40,10 @@ WinRar - https://www.win-rar.com/start.html?&L=4
 - Telegram - https://desktop.telegram.org/?setln=ru
 - Steam - https://store.steampowered.com/?l=russian
 - Happ - https://github.com/Happ-proxy
+- VS Code - https://code.visualstudio.com/download
+
+Драйвера:
+- Nvidia - https://www.nvidia.com/en-us/drivers/
 - 
 
 ---
